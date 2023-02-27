@@ -33,7 +33,7 @@ This repository includes two main files:
 
 * **'0. Append USoc files.R'** This is the file that reads in all your desired indresp, indall, hhresp and egoalt files and transforms them so we end up with a clean, long-format file 'USOC long.csv' at the end. It can take some time to run (~20 minutes) because the input files are large.
 
-* **1. Create variables.R** This file starts with 'USOC long.csv' and creates some basic variables that will be useful for analysis, such as age, economic status and caring status.
+* **'1. Create variables.R'** This file starts with 'USOC long.csv' and creates some basic variables that will be useful for analysis, such as age, economic status and caring status.
 
 If you would like to add any variables to this pipeline, please refer to the [questionnaire modules](https://www.understandingsociety.ac.uk/documentation/mainstage/dataset-documentation/questionnaire-modules) hosted online to find any other survey questions you might be interested in. 
 
