@@ -46,10 +46,6 @@ These scripts were written in R version 4.0.2. You will need to install the foll
 * data.table
 * splitstackshape
 
-### Getting started
-
-Describe the way in which the code can be used. 
-
 ## Useful references
 
 Don't forget to use **survey weights** when working with this dataset, otherwise it won't be nationally representative. Here is a [useful guide](https://www.understandingsociety.ac.uk/documentation/mainstage/user-guides/main-survey-user-guide/selecting-the-correct-weight-for-your-analysis) from the data owners.
