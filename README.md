@@ -39,9 +39,7 @@ If you would like to add any variables to this pipeline, please refer to the [qu
 
 ### Requirements
 
-These scripts were written in R version (to be added) and RStudio Version 1.1.383. 
-
-You will need to install the following R packages as well:
+These scripts were written in R version 4.0.2. You will need to install the following R packages as well:
 
 * tidyverse
 * haven
